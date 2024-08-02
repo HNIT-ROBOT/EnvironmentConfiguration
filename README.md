@@ -25,7 +25,7 @@ OK， 安装 Python 就到这里了。
 使用 Virtualenv 建立虚拟环境，解释器选 Python2.7 32位。
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/12357682/1617081301346-a88d3eb6-b944-4344-adb7-e974d81de266.png#align=left&display=inline&height=305&margin=%5Bobject%20Object%5D&name=image.png&originHeight=609&originWidth=999&size=67382&status=done&style=none&width=499.5)
 ### 导入Nao机器人SDK
-通过此链接 [https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares) 打开软银的软件下载页面。
+通过此链接 https://www.aldebaran.com/en/support/nao-6/downloads-softwares/former-versions?os=45&category=76) 打开软银的软件下载页面。
 **![image.png](https://cdn.nlark.com/yuque/0/2021/png/12357682/1617089308886-d2057019-a3e3-4b67-8378-fa609e6b264a.png#align=left&display=inline&height=415&margin=%5Bobject%20Object%5D&name=image.png&originHeight=829&originWidth=1894&size=76776&status=done&style=none&width=947)**
 但是这里我们不使用最新版本（使用最新版可能会导致一些问题，读者请自行解决），点开 
 [Former versions](https://www.softbankrobotics.com/emea/en/support/nao-6/downloads-softwares/former-versions?os=45&category=76)
